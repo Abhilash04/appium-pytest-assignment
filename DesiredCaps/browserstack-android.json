@@ -1,0 +1,14 @@
+{
+  "browserstack.user": "",
+  "browserstack.key": "",
+  "platformName": "Android",
+  "platformVersion": "11.0",
+  "deviceName": "OnePlus 9",
+  "automationName": "uiautomator2",
+  "app": "bs://8a3962331fc1569b3068e8a30e8dd19dab023ea6",
+  "noReset": false,
+  "fullReset": true,
+  "project": "FamPay Android App Automation",
+  "build": "[AND] Debug Build 256",
+  "name": "FamPay-Sanity"
+}

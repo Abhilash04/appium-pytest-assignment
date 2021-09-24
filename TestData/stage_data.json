@@ -1,0 +1,12 @@
+{
+  "test_sanity_101": {
+    "tc_name": "test registration functionality",
+    "test_data": {}
+  },
+  "test_sanity_102": {
+    "tc_name": "test login functionality",
+    "test_data": {
+      "phone_number": "9877053648"
+    }
+  }
+}

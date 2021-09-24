@@ -1,0 +1,11 @@
+{
+  "platformName": "Android",
+  "platformVersion": "11",
+  "deviceName": "Pixel_3a_API_30_x86",
+  "automationName": "uiautomator2",
+  "udid": "emulator-5554",
+  "app": "FamPay.apk",
+  "fullReset": true,
+  "appPackage": "com.fampay.in.debug",
+  "appActivity": "com.fampay.in.ui.splash.SplashActivity"
+}
